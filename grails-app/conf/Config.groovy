@@ -117,4 +117,4 @@ log4j = {
 // used by the demo tag
 uploadr.defaultUploadPath="${System.getProperty('user.home')}/Downloads/uploadr"
 // used by the cleanUploadedFilesJob Quartz job (on ci and development)
-uploadr.maxAgeUploadedFile=1000 * 60  * 60  * 4  // 4 hours in milliseconds
+uploadr.maxAgeUploadedFile=1000 * 60 * 60 * 4  // 4 hours in milliseconds

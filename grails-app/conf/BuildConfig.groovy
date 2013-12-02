@@ -69,6 +69,8 @@ grails.project.dependency.resolution = {
         //runtime ":cached-resources:1.1"
         //runtime ":yui-minify-resources:0.1.5"
 
+        compile ":quartz:1.0.1"
+
         compile ":modernizr:latest.integration"
         compile ":uploadr:latest.integration"
     }
