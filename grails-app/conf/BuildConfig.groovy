@@ -74,9 +74,9 @@ grails.project.dependency.resolution = {
         //compile ":handlebars-asset-pipeline:1.3.0.3"
 
         compile ":quartz:1.0.1"
-//        compile ":uploadr:latest.release"
+        compile ":uploadr:latest.release"
     }
 }
 
 // inplace plugin for development
-grails.plugin.location.uploadr = '../grails-uploadr'
+//grails.plugin.location.uploadr = '../grails-uploadr'
